@@ -34,8 +34,8 @@ For last student ID digit is 0 then design antenna at frequency : 459 MHz
 
 ## Table of Frequency
 
-|รหัสนักศึกษาตัวสุดท้าย (X)|Frequency (MHz.)|λ or Lamda (Meters)| Pole length (λ/2)|
-|:-:|:-:|:-:|:-:|:-:|
+|รหัสนักศึกษาตัวสุดท้าย (X)|Frequency (MHz.)|λ or Lamda (Meters)|Pole length (λ/2)|
+|:-:|:-:|:-:|:-:|
 |1|223|1.34529148|0.67264574|
 |2|235|1.276595745|0.638297872|
 |3|267|1.123595506|0.561797753|
